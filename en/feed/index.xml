@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Desaulniers Simard</title>
+	<atom:link href="/en/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>WordPress consulting, training and development in Montreal</description>
+	<lastBuildDate>Sat, 05 May 2018 12:33:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.15</generator>
+	<item>
+		<title>Multilingual Content Management</title>
+		<link>/en/2014/12/multilingual-content-management/</link>
+		<pubDate>Sun, 14 Dec 2014 14:56:44 +0000</pubDate>
+		<dc:creator><![CDATA[Elise]]></dc:creator>
+				<category><![CDATA[Conferences]]></category>
+
+		<guid isPermaLink="false">/?p=708</guid>
+		<description><![CDATA[<p>Last week, we shed our boots and scarves and went to WordCamp Orlando to talk about multilingual content management. While it may be easy to use WordPress in our own language, managing a multilingual site is another kettle of fish! We outlined the best content management practices and interface presentation for multilingual content (never, never, never Google Translate, and [&#8230;]</p>
+<p>Cet article <a rel="nofollow" href="/en/2014/12/multilingual-content-management/">Multilingual Content Management</a> est apparu en premier sur <a rel="nofollow" href="/en">Desaulniers Simard</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Last week, we shed our boots and scarves and went to <a href="http://2014.orlando.wordcamp.org/">WordCamp Orlando</a> to talk about multilingual content management. While it may be easy to<br />
+use <a href="http://codex.wordpress.org/WordPress_in_Your_Language">WordPress in our own language</a>, managing a multilingual site is another kettle of fish! We outlined the best content management practices and interface presentation for multilingual content (never, never, never Google Translate, and never use a little flag as a language selector!), then we analyzed the strengths and weaknesses of the solutions available. Want to know more? Here are our slides:</p>
+<p><iframe src="https://docs.google.com/presentation/d/17tgshFGCfH1bpqghCYSWAscsfNqaSOgQlV35HXvaKq4/embed?start=false&amp;loop=false&amp;delayms=3000" width="960" height="629" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>Cet article <a rel="nofollow" href="/en/2014/12/multilingual-content-management/">Multilingual Content Management</a> est apparu en premier sur <a rel="nofollow" href="/en">Desaulniers Simard</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>On our way to San Francisco</title>
+		<link>/en/2014/10/on-our-way-to-san-francisco/</link>
+		<pubDate>Fri, 24 Oct 2014 23:57:44 +0000</pubDate>
+		<dc:creator><![CDATA[Alexandre]]></dc:creator>
+				<category><![CDATA[Conferences]]></category>
+
+		<guid isPermaLink="false">/?p=658</guid>
+		<description><![CDATA[<p>Desaulniers Simard is at Gate 80, awaiting shipment to San Francisco. Why San Francisco? Because WordCamp San Francisco is this weekend, the patriarch of all WordCamps, the one where Matt Mullenweg, creator of WordPress, gives his annual State of the Word, named after the American president&#8217;s annual State of the Union Address. The following week [&#8230;]</p>
+<p>Cet article <a rel="nofollow" href="/en/2014/10/on-our-way-to-san-francisco/">On our way to San Francisco</a> est apparu en premier sur <a rel="nofollow" href="/en">Desaulniers Simard</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Desaulniers Simard is at Gate 80, awaiting shipment to San Francisco.<img class="alignright size-medium wp-image-653" src="https://i1.wp.com/desaulniers-simard.com/wp-content/uploads/2014/10/porte80.jpg?resize=300%2C168&#038;ssl=1" alt="porte80" data-recalc-dims="1" /><br />
+Why San Francisco? Because <a href="http://2014.sf.wordcamp.org/">WordCamp San Francisc</a>o is this weekend, the<br />
+patriarch of all WordCamps, the one where Matt Mullenweg, creator of<br />
+WordPress, gives his annual <a href="http://2014.sf.wordcamp.org/session/the-state-of-the-word-2014/">State of the Word</a>, named after the<br />
+American president&#8217;s annual <em>State of the Union Address</em>.</p>
+<p>The following week is the first edition of the <a href="http://conf.woocommerce.com/">WooCommerce Conference</a>,<br />
+a two-day event devoted to the popular WordPress ecommerce platform.<br />
+We&#8217;ll be there too, and we&#8217;ll be posting about our experiences during<br />
+these two events. You can also follow <a href="https://twitter.com/Desa_Simard">our Twitter account</a> for even<br />
+faster bulletins.</p>
+<p>Cet article <a rel="nofollow" href="/en/2014/10/on-our-way-to-san-francisco/">On our way to San Francisco</a> est apparu en premier sur <a rel="nofollow" href="/en">Desaulniers Simard</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>We are Affiliated Woo Workers</title>
+		<link>/en/2014/09/we-are-affiliated-woo-workers/</link>
+		<pubDate>Thu, 18 Sep 2014 02:56:53 +0000</pubDate>
+		<dc:creator><![CDATA[Alexandre]]></dc:creator>
+				<category><![CDATA[News]]></category>
+
+		<guid isPermaLink="false">/?p=626</guid>
+		<description><![CDATA[<p>Desaulniers Simard has been approved by WooThemes and is now part of the Affiliated Woo Workers official directory.</p>
+<p>Cet article <a rel="nofollow" href="/en/2014/09/we-are-affiliated-woo-workers/">We are Affiliated Woo Workers</a> est apparu en premier sur <a rel="nofollow" href="/en">Desaulniers Simard</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><strong><img class="alignright size-full wp-image-622" src="https://i2.wp.com/desaulniers-simard.com/wp-content/uploads/2014/09/woothemes_logo.png?resize=347%2C87&#038;ssl=1" alt="woothemes_logo" srcset="https://i2.wp.com/desaulniers-simard.com/wp-content/uploads/2014/09/woothemes_logo.png?resize=300%2C75&amp;ssl=1 300w, https://i2.wp.com/desaulniers-simard.com/wp-content/uploads/2014/09/woothemes_logo.png?w=347&amp;ssl=1 347w" sizes="(max-width: 347px) 100vw, 347px" data-recalc-dims="1" />Desaulniers Simard</strong> has been approved by <strong>WooThemes</strong> and is now part of the <em><a href="http://www.woothemes.com/affiliated-woo-workers/desaulniers-simard/">Affiliated Woo Workers</a> </em>official directory. We are the second in Canada and first in Québec upon which this honour has been bestowed. <em>Affiliated Woo Workers</em> are selected in recognition of the quality and scope of their customization work with WooThemes themes and WooCommerce plugin and extensions. We&#8217;re not going to lie, we&#8217;re a bit proud, here.</p>
+<p><a href="http://www.woothemes.com/">WooThemes</a> is a pioneer of commercial solutions in the WordPress ecosystem. Founded in 2008, it was among the very first studios to offer WordPress themes for sale and it has grown ever since. In 2011, WooThemes launched <a href="http://www.woothemes.com/woocommerce/">WooCommerce</a>, a plugin that transforms WordPress into a full-fledged e-commerce platform. As of today, WooCommerce powers 17,77% of all e-commerce sites in the world.</p>
+<p>Cet article <a rel="nofollow" href="/en/2014/09/we-are-affiliated-woo-workers/">We are Affiliated Woo Workers</a> est apparu en premier sur <a rel="nofollow" href="/en">Desaulniers Simard</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>We will be at WordCamp Montreal</title>
+		<link>/en/2014/07/nous-serons-au-wordcamp-montreal-2/</link>
+		<pubDate>Sun, 06 Jul 2014 23:58:03 +0000</pubDate>
+		<dc:creator><![CDATA[Alexandre]]></dc:creator>
+		
+		<guid isPermaLink="false">/2014/07/nous-serons-au-wordcamp-montreal-2/</guid>
+		<description><![CDATA[<p>WordCamp is an informal conference about WordPress organized by the local community. Since 2006, 346 similar conferences have been organized in 172 cities worlwide. This year marks the 6th edition of our local version, WordCamp Montreal. We are pleased to announce that both of us have been selected as speakers again this year. Élise will present [&#8230;]</p>
+<p>Cet article <a rel="nofollow" href="/en/2014/07/nous-serons-au-wordcamp-montreal-2/">We will be at WordCamp Montreal</a> est apparu en premier sur <a rel="nofollow" href="/en">Desaulniers Simard</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><img class="size-medium wp-image-261 alignright" src="https://i2.wp.com/desaulniers-simard.com/wp-content/uploads/2014/07/wcmtl.png?resize=300%2C204&#038;ssl=1" alt="wcmtl" srcset="https://i2.wp.com/desaulniers-simard.com/wp-content/uploads/2014/07/wcmtl.png?resize=300%2C204&amp;ssl=1 300w, https://i2.wp.com/desaulniers-simard.com/wp-content/uploads/2014/07/wcmtl.png?w=525&amp;ssl=1 525w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" /><a href="http://central.wordcamp.org/">WordCamp</a> is an informal conference about <a href="http://wordpress.org/">WordPress</a> organized by the local community. Since 2006, 346 similar conferences have been organized in 172 cities worlwide. This year marks the 6th edition of our local version, <a href="http://2014.montreal.wordcamp.org/">WordCamp Montreal</a>.</p>
+<p>We are pleased to announce that both of us have been selected as speakers again this year. Élise will present<br />
+Nous sommes heureuses d&#8217;annoncer que nous avons toutes les deux été retenues comme conférencières cette année encore. Élise présentera <a href="http://2014.montreal.wordcamp.org/session/10-facons-de-vendre-avec-wordpress/">10 façons de vendre en ligne avec WordPress</a> (Ten ways to sell online with WordPress), from a simple Paypal button to the advanced functions of <a href="http://www.woothemes.com/woocommerce/">WooCommerce</a>. An intense program for 45 minutes! For his part, Alexandre will tackle the somewhat obscure subject of CSS selectors and will speak on <a href="http://2014.montreal.wordcamp.org/session/selecteurs-css-a-la-rescousse-techniques-incontournables-pour-wordpress/">how to use them in WordPress</a>.</p>
+<p>In addition, Desaulniers Simard supports the organizing committee as a sponsor of the event. The Montreal WordPress community is lively and impassioned. We are proud to be part of it.</p>
+<p>Cet article <a rel="nofollow" href="/en/2014/07/nous-serons-au-wordcamp-montreal-2/">We will be at WordCamp Montreal</a> est apparu en premier sur <a rel="nofollow" href="/en">Desaulniers Simard</a>.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Elise | Desaulniers Simard</title>
+	<atom:link href="/en/author/elise/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>WordPress consulting, training and development in Montreal</description>
+	<lastBuildDate>Sat, 05 May 2018 12:33:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.15</generator>
+	<item>
+		<title>Multilingual Content Management</title>
+		<link>/en/2014/12/multilingual-content-management/</link>
+		<pubDate>Sun, 14 Dec 2014 14:56:44 +0000</pubDate>
+		<dc:creator><![CDATA[Elise]]></dc:creator>
+				<category><![CDATA[Conferences]]></category>
+
+		<guid isPermaLink="false">/?p=708</guid>
+		<description><![CDATA[<p>Last week, we shed our boots and scarves and went to WordCamp Orlando to talk about multilingual content management. While it may be easy to use WordPress in our own language, managing a multilingual site is another kettle of fish! We outlined the best content management practices and interface presentation for multilingual content (never, never, never Google Translate, and [&#8230;]</p>
+<p>Cet article <a rel="nofollow" href="/en/2014/12/multilingual-content-management/">Multilingual Content Management</a> est apparu en premier sur <a rel="nofollow" href="/en">Desaulniers Simard</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Last week, we shed our boots and scarves and went to <a href="http://2014.orlando.wordcamp.org/">WordCamp Orlando</a> to talk about multilingual content management. While it may be easy to<br />
+use <a href="http://codex.wordpress.org/WordPress_in_Your_Language">WordPress in our own language</a>, managing a multilingual site is another kettle of fish! We outlined the best content management practices and interface presentation for multilingual content (never, never, never Google Translate, and never use a little flag as a language selector!), then we analyzed the strengths and weaknesses of the solutions available. Want to know more? Here are our slides:</p>
+<p><iframe src="https://docs.google.com/presentation/d/17tgshFGCfH1bpqghCYSWAscsfNqaSOgQlV35HXvaKq4/embed?start=false&amp;loop=false&amp;delayms=3000" width="960" height="629" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>Cet article <a rel="nofollow" href="/en/2014/12/multilingual-content-management/">Multilingual Content Management</a> est apparu en premier sur <a rel="nofollow" href="/en">Desaulniers Simard</a>.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Conferences | Desaulniers Simard</title>
+	<atom:link href="/en/categorie/conferences-en/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>WordPress consulting, training and development in Montreal</description>
+	<lastBuildDate>Sat, 05 May 2018 12:33:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.15</generator>
+	<item>
+		<title>Multilingual Content Management</title>
+		<link>/en/2014/12/multilingual-content-management/</link>
+		<pubDate>Sun, 14 Dec 2014 14:56:44 +0000</pubDate>
+		<dc:creator><![CDATA[Elise]]></dc:creator>
+				<category><![CDATA[Conferences]]></category>
+
+		<guid isPermaLink="false">/?p=708</guid>
+		<description><![CDATA[<p>Last week, we shed our boots and scarves and went to WordCamp Orlando to talk about multilingual content management. While it may be easy to use WordPress in our own language, managing a multilingual site is another kettle of fish! We outlined the best content management practices and interface presentation for multilingual content (never, never, never Google Translate, and [&#8230;]</p>
+<p>Cet article <a rel="nofollow" href="/en/2014/12/multilingual-content-management/">Multilingual Content Management</a> est apparu en premier sur <a rel="nofollow" href="/en">Desaulniers Simard</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Last week, we shed our boots and scarves and went to <a href="http://2014.orlando.wordcamp.org/">WordCamp Orlando</a> to talk about multilingual content management. While it may be easy to<br />
+use <a href="http://codex.wordpress.org/WordPress_in_Your_Language">WordPress in our own language</a>, managing a multilingual site is another kettle of fish! We outlined the best content management practices and interface presentation for multilingual content (never, never, never Google Translate, and never use a little flag as a language selector!), then we analyzed the strengths and weaknesses of the solutions available. Want to know more? Here are our slides:</p>
+<p><iframe src="https://docs.google.com/presentation/d/17tgshFGCfH1bpqghCYSWAscsfNqaSOgQlV35HXvaKq4/embed?start=false&amp;loop=false&amp;delayms=3000" width="960" height="629" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>Cet article <a rel="nofollow" href="/en/2014/12/multilingual-content-management/">Multilingual Content Management</a> est apparu en premier sur <a rel="nofollow" href="/en">Desaulniers Simard</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>On our way to San Francisco</title>
+		<link>/en/2014/10/on-our-way-to-san-francisco/</link>
+		<pubDate>Fri, 24 Oct 2014 23:57:44 +0000</pubDate>
+		<dc:creator><![CDATA[Alexandre]]></dc:creator>
+				<category><![CDATA[Conferences]]></category>
+
+		<guid isPermaLink="false">/?p=658</guid>
+		<description><![CDATA[<p>Desaulniers Simard is at Gate 80, awaiting shipment to San Francisco. Why San Francisco? Because WordCamp San Francisco is this weekend, the patriarch of all WordCamps, the one where Matt Mullenweg, creator of WordPress, gives his annual State of the Word, named after the American president&#8217;s annual State of the Union Address. The following week [&#8230;]</p>
+<p>Cet article <a rel="nofollow" href="/en/2014/10/on-our-way-to-san-francisco/">On our way to San Francisco</a> est apparu en premier sur <a rel="nofollow" href="/en">Desaulniers Simard</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Desaulniers Simard is at Gate 80, awaiting shipment to San Francisco.<img class="alignright size-medium wp-image-653" src="https://i1.wp.com/desaulniers-simard.com/wp-content/uploads/2014/10/porte80.jpg?resize=300%2C168&#038;ssl=1" alt="porte80" data-recalc-dims="1" /><br />
+Why San Francisco? Because <a href="http://2014.sf.wordcamp.org/">WordCamp San Francisc</a>o is this weekend, the<br />
+patriarch of all WordCamps, the one where Matt Mullenweg, creator of<br />
+WordPress, gives his annual <a href="http://2014.sf.wordcamp.org/session/the-state-of-the-word-2014/">State of the Word</a>, named after the<br />
+American president&#8217;s annual <em>State of the Union Address</em>.</p>
+<p>The following week is the first edition of the <a href="http://conf.woocommerce.com/">WooCommerce Conference</a>,<br />
+a two-day event devoted to the popular WordPress ecommerce platform.<br />
+We&#8217;ll be there too, and we&#8217;ll be posting about our experiences during<br />
+these two events. You can also follow <a href="https://twitter.com/Desa_Simard">our Twitter account</a> for even<br />
+faster bulletins.</p>
+<p>Cet article <a rel="nofollow" href="/en/2014/10/on-our-way-to-san-francisco/">On our way to San Francisco</a> est apparu en premier sur <a rel="nofollow" href="/en">Desaulniers Simard</a>.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

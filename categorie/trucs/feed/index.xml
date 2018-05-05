@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Trucs | Desaulniers Simard</title>
+	<atom:link href="/categorie/trucs/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Conseil, développement et formation WordPress à Montréal</description>
+	<lastBuildDate>Sat, 05 May 2018 12:33:24 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.15</generator>
+	<item>
+		<title>Mettez de l&#8217;ordre dans vos recettes</title>
+		<link>/2015/07/mettez-de-lordre-vos-recettes/</link>
+		<comments>/2015/07/mettez-de-lordre-vos-recettes/#respond</comments>
+		<pubDate>Sat, 18 Jul 2015 21:17:14 +0000</pubDate>
+		<dc:creator><![CDATA[Elise]]></dc:creator>
+				<category><![CDATA[Trucs]]></category>
+
+		<guid isPermaLink="false">/?p=1001</guid>
+		<description><![CDATA[<p>Le shortcode recipe est votre nouvel ami. Il est disponible sous wordpress.com de même qu'aux sites auto-hébergés via l'extension Jetpack. En plus d'améliorer la mise en page de vos recettes, l'utilisation du shortcode recipe va faciliter leur référencement sur les moteurs de recherche.</p>
+<p>Cet article <a rel="nofollow" href="/2015/07/mettez-de-lordre-vos-recettes/">Mettez de l&rsquo;ordre dans vos recettes</a> est apparu en premier sur <a rel="nofollow" href="/">Desaulniers Simard</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Vous publiez des recettes sur votre blogue et vous avez du mal à les formater ?<img class="alignright size-medium wp-image-1002" src="https://i1.wp.com/desaulniers-simard.com/wp-content/uploads/2015/07/shutterstock_6590863.jpg?resize=300%2C201&#038;ssl=1" alt="shutterstock_6590863" srcset="https://i1.wp.com/desaulniers-simard.com/wp-content/uploads/2015/07/shutterstock_6590863.jpg?resize=300%2C201&amp;ssl=1 300w, https://i1.wp.com/desaulniers-simard.com/wp-content/uploads/2015/07/shutterstock_6590863.jpg?w=1000&amp;ssl=1 1000w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" /><br />
+Vous souhaitez qu&rsquo;elles puissent être imprimées facilement et proprement ?</p>
+<p>Le shortcode <strong>recipe</strong> est votre nouvel ami. Il est disponible sous wordpress.com de même qu&rsquo;aux sites auto-hébergés via l&rsquo;extension <a href="http://jetpack.me/">Jetpack</a>. En plus d&rsquo;améliorer la mise en page de vos recettes, l&rsquo;utilisation du shortcode <strong>recipe</strong> va faciliter leur référencement sur les moteurs de recherche.</p>
+<h2>Comment ça marche ?</h2>
+<p>Dans l&rsquo;éditeur visuel habituel, il s&rsquo;agit simplement de taper ceci en remplaçant le texte en gras par vos propres paramètres :</p>
+<p><img class="alignleft size-full wp-image-1009" src="https://i0.wp.com/desaulniers-simard.com/wp-content/uploads/2015/07/Capture-d’écran-2015-07-18-à-17.15.10.png?resize=796%2C46&#038;ssl=1" alt="Shortcode_recipe" srcset="https://i0.wp.com/desaulniers-simard.com/wp-content/uploads/2015/07/Capture-d’écran-2015-07-18-à-17.15.10.png?resize=300%2C17&amp;ssl=1 300w, https://i0.wp.com/desaulniers-simard.com/wp-content/uploads/2015/07/Capture-d’écran-2015-07-18-à-17.15.10.png?w=796&amp;ssl=1 796w" sizes="(max-width: 796px) 100vw, 796px" data-recalc-dims="1" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Ensuite, vous entrez votre recette (n&rsquo;hésitez pas à utiliser les listes à puces ou numériques, de même que les attributs titre1, titre2 etc pour faciliter la lecture.)</p>
+<p>Et à la fin, vous inscrivez</p>
+<p><img class="alignleft size-full wp-image-1013" src="https://i2.wp.com/desaulniers-simard.com/wp-content/uploads/2015/07/Capture-d’écran-2015-07-18-à-17.17.57.png?resize=86%2C35&#038;ssl=1" alt="fin_shortcode" data-recalc-dims="1" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h2>Qu&rsquo;est-ce que ça donne ?</h2>
+<p><strong>Le shortcode en action !</strong></p>
+<p><img class="alignleft size-full wp-image-1015" src="https://i1.wp.com/desaulniers-simard.com/wp-content/uploads/2015/07/Capture-d’écran-2015-07-18-à-17.24.08.png?resize=878%2C438&#038;ssl=1" alt="comment" srcset="https://i1.wp.com/desaulniers-simard.com/wp-content/uploads/2015/07/Capture-d’écran-2015-07-18-à-17.24.08.png?resize=300%2C150&amp;ssl=1 300w, https://i1.wp.com/desaulniers-simard.com/wp-content/uploads/2015/07/Capture-d’écran-2015-07-18-à-17.24.08.png?w=878&amp;ssl=1 878w" sizes="(max-width: 878px) 100vw, 878px" data-recalc-dims="1" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h3>Résultat :</h3>
+<div class="hrecipe jetpack-recipe"><h3 class="jetpack-recipe-title">Sandwich aux tomates</h3><ul class="jetpack-recipe-meta"><li class="jetpack-recipe-servings"><strong>Sert: </strong>2</li><li class="jetpack-recipe-time"><strong>Durée: </strong>15 min</li><li class="jetpack-recipe-difficulty"><strong>Difficulté: </strong>easy</li><li class="jetpack-recipe-print"><a href="#">Imprimer</a></li></ul><div class="jetpack-recipe-content"></p>
+<h2>Ingrédients</h2>
+<ul>
+<li>4 tranches de pain</li>
+<li>Véganaise Earth Balance</li>
+<li>1 tomate</li>
+<li>Quelques feuilles de laitue</li>
+</ul>
+<h2>Méthode</h2>
+<ol>
+<li>Couper la tomate en tranches minces</li>
+<li>Étendre un peu de véganaise sur chaque tranche de pain</li>
+<li>Assemblez chaque sandwich : une tranche de pain, un peu de laitue, une ou deux tranches de tomate, une tranche de pain (le côté beurré vers l&rsquo;intérieur)</li>
+<li>Couper chaque sandwich en deux et servir immédiatement.</li>
+</ol>
+<p></div></div>
+<p>Pour plus d&rsquo;information, <a href="https://en.support.wordpress.com/recipes/">consultez la documentation de WordPress.com</a></p>
+<p>Cet article <a rel="nofollow" href="/2015/07/mettez-de-lordre-vos-recettes/">Mettez de l&rsquo;ordre dans vos recettes</a> est apparu en premier sur <a rel="nofollow" href="/">Desaulniers Simard</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2015/07/mettez-de-lordre-vos-recettes/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

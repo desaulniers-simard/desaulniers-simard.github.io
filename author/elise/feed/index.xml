@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Elise | Desaulniers Simard</title>
+	<atom:link href="/author/elise/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Conseil, développement et formation WordPress à Montréal</description>
+	<lastBuildDate>Sat, 05 May 2018 12:33:24 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.15</generator>
+	<item>
+		<title>Mettez de l&#8217;ordre dans vos recettes</title>
+		<link>/2015/07/mettez-de-lordre-vos-recettes/</link>
+		<comments>/2015/07/mettez-de-lordre-vos-recettes/#respond</comments>
+		<pubDate>Sat, 18 Jul 2015 21:17:14 +0000</pubDate>
+		<dc:creator><![CDATA[Elise]]></dc:creator>
+				<category><![CDATA[Trucs]]></category>
+
+		<guid isPermaLink="false">/?p=1001</guid>
+		<description><![CDATA[<p>Le shortcode recipe est votre nouvel ami. Il est disponible sous wordpress.com de même qu'aux sites auto-hébergés via l'extension Jetpack. En plus d'améliorer la mise en page de vos recettes, l'utilisation du shortcode recipe va faciliter leur référencement sur les moteurs de recherche.</p>
+<p>Cet article <a rel="nofollow" href="/2015/07/mettez-de-lordre-vos-recettes/">Mettez de l&rsquo;ordre dans vos recettes</a> est apparu en premier sur <a rel="nofollow" href="/">Desaulniers Simard</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Vous publiez des recettes sur votre blogue et vous avez du mal à les formater ?<img class="alignright size-medium wp-image-1002" src="https://i1.wp.com/desaulniers-simard.com/wp-content/uploads/2015/07/shutterstock_6590863.jpg?resize=300%2C201&#038;ssl=1" alt="shutterstock_6590863" srcset="https://i1.wp.com/desaulniers-simard.com/wp-content/uploads/2015/07/shutterstock_6590863.jpg?resize=300%2C201&amp;ssl=1 300w, https://i1.wp.com/desaulniers-simard.com/wp-content/uploads/2015/07/shutterstock_6590863.jpg?w=1000&amp;ssl=1 1000w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" /><br />
+Vous souhaitez qu&rsquo;elles puissent être imprimées facilement et proprement ?</p>
+<p>Le shortcode <strong>recipe</strong> est votre nouvel ami. Il est disponible sous wordpress.com de même qu&rsquo;aux sites auto-hébergés via l&rsquo;extension <a href="http://jetpack.me/">Jetpack</a>. En plus d&rsquo;améliorer la mise en page de vos recettes, l&rsquo;utilisation du shortcode <strong>recipe</strong> va faciliter leur référencement sur les moteurs de recherche.</p>
+<h2>Comment ça marche ?</h2>
+<p>Dans l&rsquo;éditeur visuel habituel, il s&rsquo;agit simplement de taper ceci en remplaçant le texte en gras par vos propres paramètres :</p>
+<p><img class="alignleft size-full wp-image-1009" src="https://i0.wp.com/desaulniers-simard.com/wp-content/uploads/2015/07/Capture-d’écran-2015-07-18-à-17.15.10.png?resize=796%2C46&#038;ssl=1" alt="Shortcode_recipe" srcset="https://i0.wp.com/desaulniers-simard.com/wp-content/uploads/2015/07/Capture-d’écran-2015-07-18-à-17.15.10.png?resize=300%2C17&amp;ssl=1 300w, https://i0.wp.com/desaulniers-simard.com/wp-content/uploads/2015/07/Capture-d’écran-2015-07-18-à-17.15.10.png?w=796&amp;ssl=1 796w" sizes="(max-width: 796px) 100vw, 796px" data-recalc-dims="1" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Ensuite, vous entrez votre recette (n&rsquo;hésitez pas à utiliser les listes à puces ou numériques, de même que les attributs titre1, titre2 etc pour faciliter la lecture.)</p>
+<p>Et à la fin, vous inscrivez</p>
+<p><img class="alignleft size-full wp-image-1013" src="https://i2.wp.com/desaulniers-simard.com/wp-content/uploads/2015/07/Capture-d’écran-2015-07-18-à-17.17.57.png?resize=86%2C35&#038;ssl=1" alt="fin_shortcode" data-recalc-dims="1" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h2>Qu&rsquo;est-ce que ça donne ?</h2>
+<p><strong>Le shortcode en action !</strong></p>
+<p><img class="alignleft size-full wp-image-1015" src="https://i1.wp.com/desaulniers-simard.com/wp-content/uploads/2015/07/Capture-d’écran-2015-07-18-à-17.24.08.png?resize=878%2C438&#038;ssl=1" alt="comment" srcset="https://i1.wp.com/desaulniers-simard.com/wp-content/uploads/2015/07/Capture-d’écran-2015-07-18-à-17.24.08.png?resize=300%2C150&amp;ssl=1 300w, https://i1.wp.com/desaulniers-simard.com/wp-content/uploads/2015/07/Capture-d’écran-2015-07-18-à-17.24.08.png?w=878&amp;ssl=1 878w" sizes="(max-width: 878px) 100vw, 878px" data-recalc-dims="1" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h3>Résultat :</h3>
+<div class="hrecipe jetpack-recipe"><h3 class="jetpack-recipe-title">Sandwich aux tomates</h3><ul class="jetpack-recipe-meta"><li class="jetpack-recipe-servings"><strong>Sert: </strong>2</li><li class="jetpack-recipe-time"><strong>Durée: </strong>15 min</li><li class="jetpack-recipe-difficulty"><strong>Difficulté: </strong>easy</li><li class="jetpack-recipe-print"><a href="#">Imprimer</a></li></ul><div class="jetpack-recipe-content"></p>
+<h2>Ingrédients</h2>
+<ul>
+<li>4 tranches de pain</li>
+<li>Véganaise Earth Balance</li>
+<li>1 tomate</li>
+<li>Quelques feuilles de laitue</li>
+</ul>
+<h2>Méthode</h2>
+<ol>
+<li>Couper la tomate en tranches minces</li>
+<li>Étendre un peu de véganaise sur chaque tranche de pain</li>
+<li>Assemblez chaque sandwich : une tranche de pain, un peu de laitue, une ou deux tranches de tomate, une tranche de pain (le côté beurré vers l&rsquo;intérieur)</li>
+<li>Couper chaque sandwich en deux et servir immédiatement.</li>
+</ol>
+<p></div></div>
+<p>Pour plus d&rsquo;information, <a href="https://en.support.wordpress.com/recipes/">consultez la documentation de WordPress.com</a></p>
+<p>Cet article <a rel="nofollow" href="/2015/07/mettez-de-lordre-vos-recettes/">Mettez de l&rsquo;ordre dans vos recettes</a> est apparu en premier sur <a rel="nofollow" href="/">Desaulniers Simard</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2015/07/mettez-de-lordre-vos-recettes/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>La gestion du contenu multilingue sous WordPress</title>
+		<link>/2014/12/la-gestion-du-contenu-multilingue-sous-wordpress/</link>
+		<pubDate>Thu, 11 Dec 2014 13:22:28 +0000</pubDate>
+		<dc:creator><![CDATA[Elise]]></dc:creator>
+				<category><![CDATA[Conférences]]></category>
+
+		<guid isPermaLink="false">/?p=702</guid>
+		<description><![CDATA[<p>Le week-end dernier, nous avons fui nos bottes et foulards pour aller parler de contenu multilingue sous WordPress avec les participantes du WordCamp Orlando. S&#8217;il est très facile d&#8217;utiliser WordPress dans notre propre langue, gérer un site multilingue est une autre paire de manches ! Après avoir présenté une série de bonnes pratiques dans la gestion [&#8230;]</p>
+<p>Cet article <a rel="nofollow" href="/2014/12/la-gestion-du-contenu-multilingue-sous-wordpress/">La gestion du contenu multilingue sous WordPress</a> est apparu en premier sur <a rel="nofollow" href="/">Desaulniers Simard</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Le week-end dernier, nous avons fui nos bottes et foulards pour aller parler de contenu multilingue sous WordPress avec les participantes du <a href="http://2014.orlando.wordcamp.org/">WordCamp Orlando</a>. S&rsquo;il est très facile d&rsquo;utiliser <a href="http://codex.wordpress.org/WordPress_in_Your_Language">WordPress dans notre propre langue</a>, gérer un site multilingue est une autre paire de manches ! Après avoir présenté une série de bonnes pratiques dans la gestion et la présentation de contenu multilingue (jamais jamais jamais de &laquo;&nbsp;Google Translate&nbsp;&raquo; ni de drapeau comme sélecteur de langue!), nous avons montré les forces et faiblesses des différentes solutions. Curieuse d&rsquo;en savoir plus ? Voici nos diapos :</p>
+<p><iframe src="https://docs.google.com/presentation/d/17tgshFGCfH1bpqghCYSWAscsfNqaSOgQlV35HXvaKq4/embed?start=false&#038;loop=false&#038;delayms=3000" frameborder="0" width="960" height="629" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></p>
+<p>Cet article <a rel="nofollow" href="/2014/12/la-gestion-du-contenu-multilingue-sous-wordpress/">La gestion du contenu multilingue sous WordPress</a> est apparu en premier sur <a rel="nofollow" href="/">Desaulniers Simard</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>&#171;&#160;Faites semblant que vous êtes bonne&#160;&#187;</title>
+		<link>/2014/10/faites-semblant-que-vous-etes-bonne/</link>
+		<pubDate>Tue, 28 Oct 2014 02:58:38 +0000</pubDate>
+		<dc:creator><![CDATA[Elise]]></dc:creator>
+				<category><![CDATA[Conférences]]></category>
+
+		<guid isPermaLink="false">/?p=662</guid>
+		<description><![CDATA[<p>Dimanche, dans son “State of the Word”, le cofondateur de WordPress Matt Mullenweg était fier d’annoncer qu’il avait réussi à publier un article par jour, pendant 39 jours. WordPress est née il y a tout juste 11 ans. En 2004, le Merriam-Webster’s déclarait “blog” le mot de l’année. Depuis, le Web s’est métamorphosé, WordPress est [&#8230;]</p>
+<p>Cet article <a rel="nofollow" href="/2014/10/faites-semblant-que-vous-etes-bonne/">&laquo;&nbsp;Faites semblant que vous êtes bonne&nbsp;&raquo;</a> est apparu en premier sur <a rel="nofollow" href="/">Desaulniers Simard</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Dimanche, dans son “<a href="http://wordpress.tv/2014/10/26/matt-mullenweg-the-state-of-the-word-2014/">State of the Word</a>”, le cofondateur de <em>WordPress</em> <a href="https://twitter.com/photomatt">Matt Mullenweg</a> était fier d’annoncer qu’il avait réussi à <a href="http://ma.tt/2014/10/streak/">publier un article par jour, pendant 39 jours</a>. WordPress est née il y a tout juste 11 ans. En 2004, le Merriam-Webster’s déclarait “blog” <a href="http://www.merriam-webster.com/info/04words.htm">le mot de l’année</a>. Depuis, le Web s’est métamorphosé, WordPress est devenu bien plus qu’une plate-forme pour blogueurs, mais ces derniers sont loin d’être oubliés.</p>
+<div id="attachment_666" style="width: 1031px" class="wp-caption alignnone"><img class="wp-image-666 size-full" src="https://i0.wp.com/desaulniers-simard.com/wp-content/uploads/2014/10/Capture-d’écran-2014-10-27-à-19.47.10.png?resize=1021%2C469&#038;ssl=1" alt="La foule pour la présentation de Matt Source : https://twitter.com/wordcampsf" data-recalc-dims="1" /><p class="wp-caption-text">La foule pour la présentation de Matt. Source : @wordcampsf</p></div>
+<p>Non seulement Matt blogue encore comme au premier jour, mais tout une après-midi du <a href="http://2014.sf.wordcamp.org/">WordCamp San Francisco</a> était consacrée aux blogueuses. Pas au design ni à l’aspect technique des blogues. Ni aux trucs pour devenir une vedette des médias sociaux ou pour améliorer son ranking dans Google. Non, à l’écriture. <strong>Parce que bloguer, c’est d’abord écrire.</strong></p>
+<h2>Faire sa marque</h2>
+<p>L’après-midi s’est ouverte avec la présentation du blogueur et conférencier professionnel <a href="https://twitter.com/chrislema">Chris Lema</a> qui parlait de l’idée de “construire sa marque sur Internet”. Pour lui, tout est une question d’effort et de constance. <em>“There’s no way you are going to establish your voice if you write only once a year.”</em></p>
+<p>Écrire sur quoi ? D’abord, écrire à qui. Il faut prendre le temps de définir notre auditoire. Le plus petit et précis possible. <em>“Think &lsquo;moms who have left handed children that like poetry&rsquo;, not &lsquo;moms&rsquo;”</em>. Ensuite, répondre aux questions que se pose ce public : <em>“The key is to answer the questions your audience has. Not necessarily the deep feelings you want to share.”</em> Ses diapos et un résumé de sa présentation sont disponibles <a href="http://chrislema.com/building-your-brand/">sur son blogue</a>.</p>
+<div id="attachment_667" style="width: 875px" class="wp-caption alignnone"><img class="wp-image-667 size-full" src="https://i0.wp.com/desaulniers-simard.com/wp-content/uploads/2014/10/Capture-d’écran-2014-10-27-à-19.49.51.png?resize=865%2C568&#038;ssl=1" alt="Chris Lema. Source: @dimensionmedia" data-recalc-dims="1" /><p class="wp-caption-text">Chris Lema<br /> Source: http://twitter.com/DavidBisset</p></div>
+<p>&nbsp;</p>
+<p>Un peu plus tard, on a pu entendre <a href="https://twitter.com/CraftyChica">Kathy Cano-Murillo</a>, connue sous le nom de<a href="http://www.craftychica.com/"> Crafty Chica</a>. Kathy, c’est un fascinant mélange de Martha Stewart et de Oprah Winfrey auquel on aurait ajouté une couche de latino et beaucoup, beaucoup de paillettes. Le design épuré, très peu pour elle ! Kathy a lancé son site d’artisanat au début des années 2000 et accumule depuis les succès. Son secret ?</p>
+<blockquote><p>For your content, remember the <strong>WOW factor.</strong> Make them smile, sniffle, or say &lsquo;OMG!&rsquo; Leave them wanting more. Create emotion.</p></blockquote>
+<p>Elle n&rsquo;a cessé de répéter que pour réussir, il faut devenir une source d’inspiration, d’idée, de passion. Et foncer.</p>
+<p>&nbsp;</p>
+<h2>Tout ce qu&rsquo;on peut faire, c&rsquo;est être authentique</h2>
+<p>Quand elle a publié son premier article en 2008, <a href="https://twitter.com/MsHarkin">Christine Harkin</a> était convaincue que personne ne le lirait. C’était long. Elle ne parlait que d’elle, de ses angoisses. À sa grande surprise, elle a été remarquée et a depuis gagné de nombreux prix. Chris Lema aurait-il tort?</p>
+<p>Pendant sa présentation, la professeure de littérature anglaise a exprimé clairement ce qu’on avait vu émerger des conférences précédentes : la blogueuse doit trouver sa voix.</p>
+<blockquote><p>Write the way you talk. Share what you know. Tell the truth as you know it. All with caveats!</p></blockquote>
+<p>Finalement, tout ce qu’on peut faire c’est être authentique, être soi-même.</p>
+<div id="attachment_669" style="width: 725px" class="wp-caption alignnone"><img class="wp-image-669 size-full" src="https://i0.wp.com/desaulniers-simard.com/wp-content/uploads/2014/10/Capture-d’écran-2014-10-27-à-19.56.32.png?resize=715%2C581&#038;ssl=1" alt="The Bloggess et Jen Mylo. Source : @Carol_Stephen" data-recalc-dims="1" /><p class="wp-caption-text">The Bloggess et Jen Mylo. Source : Twitter.com/Carol_Stephen</p></div>
+<p>Le WordCamp s’est terminé sur une entrevue qu’accordait <a href="https://twitter.com/TheBloggess">Jenny Lawson</a> à <a href="https://twitter.com/jenmylo">Jen Mylo</a>. Jenny Lawson est reconnue comme une des blogueuses les plus influentes des États-Unis et son autobiographie <a href="http://www.amazon.ca/Lets-Pretend-This-Never-Happened/dp/0425261018"><em>Let&rsquo;s Pretend This Never Happened</em></a> s’est hissée à la tête du palmarès du <em>New York Times</em>.</p>
+<p>Il y avait quelque chose de fascinant à voir une foule de développeurs et de designers écouter une blogueuse parler ouvertement et simplement de ses angoisses, de ses phases dépressives, de la communauté qui s’est construite autour d’elle et de son rapport aux commentaires haineux (qu’elle réécrit avant de les publier pour qu’ils deviennent élogieux !).</p>
+<p>Elle nous a bien fait comprendre que la haine est une conséquence normale du succès : <em>&laquo;&nbsp;If you make something no one hates, no one will ever love it.&nbsp;&raquo;</em> Sur son bras, une phrase qu’elle se répète jour après jour et qui pourrait très bien devenir le mantra de toutes les blogueuses : “<em>Pretend you’re good at it.”</em>. <strong>Faites semblant que vous êtes bonne</strong>.</p>
+<p>&nbsp;</p>
+<div style="width: 1034px" class="wp-caption alignnone"><img src="https://pbs.twimg.com/media/B06ocabIEAAdvxW.jpg:large" alt="" width="1024" height="768" /><p class="wp-caption-text">Le bras de The Bloggess. Source : @jillbinder</p></div>
+<p>Cet article <a rel="nofollow" href="/2014/10/faites-semblant-que-vous-etes-bonne/">&laquo;&nbsp;Faites semblant que vous êtes bonne&nbsp;&raquo;</a> est apparu en premier sur <a rel="nofollow" href="/">Desaulniers Simard</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Dix façons de vendre avec WordPress</title>
+		<link>/2014/08/dix-facons-de-vendre-avec-wordpress/</link>
+		<pubDate>Sun, 17 Aug 2014 19:17:30 +0000</pubDate>
+		<dc:creator><![CDATA[Elise]]></dc:creator>
+				<category><![CDATA[Conférences]]></category>
+
+		<guid isPermaLink="false">/?p=611</guid>
+		<description><![CDATA[<p>Cet après-midi, Élise a présenté dix façons de vendre avec WordPress au WordCamp de Montréal. Vous pouvez consulter sa présentation (prezi) et  ses notes (PDF).</p>
+<p>Cet article <a rel="nofollow" href="/2014/08/dix-facons-de-vendre-avec-wordpress/">Dix façons de vendre avec WordPress</a> est apparu en premier sur <a rel="nofollow" href="/">Desaulniers Simard</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Cet après-midi, Élise a présenté dix façons de vendre avec WordPress au <a href="http://2014.montreal.wordcamp.org/">WordCamp de Montréal</a>.<br />
+Vous pouvez consulter sa présentation (prezi) et  <a href="/wp-content/uploads/2014/08/notes_10façons.17aoutb.pdf">ses notes</a> (PDF).<br />
+<iframe src="http://prezi.com/embed/xijvlxkdqsy-/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=0&amp;autohide_ctrls=0&amp;features=undefined&amp;disabled_features=undefined&amp;html5=1" width="750" height="600" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>Cet article <a rel="nofollow" href="/2014/08/dix-facons-de-vendre-avec-wordpress/">Dix façons de vendre avec WordPress</a> est apparu en premier sur <a rel="nofollow" href="/">Desaulniers Simard</a>.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

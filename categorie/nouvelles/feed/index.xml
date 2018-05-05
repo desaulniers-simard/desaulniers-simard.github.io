@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Nouvelles | Desaulniers Simard</title>
+	<atom:link href="/categorie/nouvelles/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Conseil, développement et formation WordPress à Montréal</description>
+	<lastBuildDate>Sat, 05 May 2018 12:33:24 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.15</generator>
+	<item>
+		<title>Les fausses promesses de WordPress</title>
+		<link>/2014/11/les-fausses-promesses-de-wordpress/</link>
+		<pubDate>Fri, 07 Nov 2014 16:17:24 +0000</pubDate>
+		<dc:creator><![CDATA[Sallie Goetsch]]></dc:creator>
+				<category><![CDATA[Nouvelles]]></category>
+
+		<guid isPermaLink="false">/?p=684</guid>
+		<description><![CDATA[<p>On en est venu à confondre la facilité de la publication avec la facilité du design, et même la facilité de la programmation. </p>
+<p>Cet article <a rel="nofollow" href="/2014/11/les-fausses-promesses-de-wordpress/">Les fausses promesses de WordPress</a> est apparu en premier sur <a rel="nofollow" href="/">Desaulniers Simard</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><strong>Traduction de <a href="https://medium.com/@salliegoetsch/have-we-been-misleading-people-about-wordpress-9dcd7dbf3034"><em>Have We Been Misleading People about WordPress?</em></a> de Sallie Goetsch par Élise Desaulniers et Alexandre Simard avec l&rsquo;accord de l&rsquo;auteure.</strong></p>
+<p>&nbsp;</p>
+<p>En 2009, une collègue et moi avons publié un billet intitulé « Mais WordPress était supposé être facile ».</p>
+<p><em>The song remains the same</em>.</p>
+<p>En 2012, quand Media Bistro m’a embauchée pour enseigner un cours d’introduction à WordPress, j’ai suggéré qu’il serait préférable de se concentrer sur WordPress.com plutôt que sur WordPress auto-hébergé. Media Bistro attire surtout des journalistes et des auteures, pas des gens avec de l’expérience en techno, et le cours ne durait que quatre séances. (Je les ai finalement convaincu d’ajouter deux séances.)</p>
+<div style="background-color: #fff; display: inline-block; font-family: 'Helvetica Neue',Arial,sans-serif; color: #a7a7a7; font-size: 11px; width: 100%; max-width: 506px;">
+<div style="overflow: hidden; position: relative; height: 0; padding: 66.798419% 0 0 0; width: 100%;"><iframe style="display: inline-block; position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="//embed.gettyimages.com/embed/95008522?et=6XUxLfbRSapdeRXWGSKLoQ&amp;similar=off&amp;sig=pEkBOwgbRySR5ED78urhjVakS0TaRbBs1dZ15Scbv4c=" width="506" height="338" frameborder="0" scrolling="no"></iframe></div>
+<div style="padding: 0; margin: 0 0 0 10px; text-align: left;"><a style="color: #a7a7a7; text-decoration: none; font-weight: normal !important; border: none; display: inline-block;" href="http://www.gettyimages.com/detail/95008522" target="_blank">#95008522</a> / <a style="color: #a7a7a7; text-decoration: none; font-weight: normal !important; border: none; display: inline-block;" href="http://www.gettyimages.com/" target="_blank">gettyimages.com</a></div>
+</div>
+<p>Mais non. Ils voulaient que j’enseigne WordPress auto-hébergé. Parce que les extensions, c’est sexy. Et les thèmes aussi. Obtenir et configurer nom de domaine et hébergement web allait prendre la première semaine? Peu importe! (La première fois, j’ai été assez masochiste pour essayer de leur faire installer WordPress manuellement. J’ai ensuite découvert que certains d’entre eux ne savaient pas ce qu’était un fichier .zip, encore moins comment le décompresser.)</p>
+<p>J’ai calculé que 90% de ce que je pouvais couvrir en quatre semaines &#8211; et même six &#8211; était disponible sous WordPress.com, ce qui aurait sauvé bien des mots de tête à mes étudiants.</p>
+<p>Après tout, WordPress.com a été inventé pour celles et ceux qui veulent que WordPress soit facile. Ça offre vraiment une façon simple de publier. Oui, WordPress.com impose des restrictions en contrepartie de sa simplicité et de sa sécurité, mais pas plus que Blogger (où j’ai commencer à bloguer), Tumblr ou Medium, par exemple.</p>
+<p>Il est tout à fait possible pour un auteur de créer un simple portfolio sur WordPress.com, ou pour quelqu’un qui a une entreprises de services d’y monter un site « brochure » accompagné d’un blogue. Je recommanderais certainement ça plutôt que Wix, tant et aussi longtemps que l’on a son propre nom de domaine dès le départ. (Cela dit, il y a quelques bizarreries dans la gestion des enregistrements de nom de domaine avec Automattic.)</p>
+<p>On en est venu à confondre la<strong> facilité de la publication</strong> avec la<strong> facilité du design</strong>, et même la <strong>facilité de la programmation</strong>. Évidemment, pour ceux qui ont de l’expérience en design ou en développement, travailler avec WordPress peut être plus facile que ce qu’ils faisaient avant. (Pour moi, c’était des sites HTML statiques; WordPress rend quelques tâches plus difficiles mais m’évite beaucoup de travail fastidieux.)</p>
+<p><strong>Mais pour quelqu’un qui ne savait pas ce qu’était un fichier .zip? Il faut regarder la réalité en face.</strong></p>
+<p>Oui, à chaque deux clics, un autre produit WordPress qui promet de donner la possibilité de créer instantanément un site sensationnel, qui va attirer les foules et rendre riche &#8211; et voici les mots magiques &#8211; <strong>sans savoir coder</strong>.</p>
+<p><em>Si ce qu’on vous chante semble trop beau pour être vrai, il s’agit sûrement du chant des sirènes.</em></p>
+<p>Ce qui est étonnant, c’est à quel point bien peu de gens semblent remettre en question l’équivalence sémantique implicite entre “sans savoir coder” et “sans savoir quoi que ce soit”.</p>
+<div style="background-color: #fff; display: inline-block; font-family: 'Helvetica Neue',Arial,sans-serif; color: #a7a7a7; font-size: 11px; width: 100%; max-width: 508px;">
+<div style="overflow: hidden; position: relative; height: 0; padding: 66.338583% 0 0 0; width: 100%;"><iframe style="display: inline-block; position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="//embed.gettyimages.com/embed/873115-003?et=j75IYSb1Re9SqVgKuzJkOQ&amp;similar=off&amp;sig=84YpY8CAS4n8mHpgmr0Z77gf2pW-kgDXOeAnFY5miC4=" width="508" height="337" frameborder="0" scrolling="no"></iframe></div>
+<div style="padding: 0; margin: 0 0 0 10px; text-align: left;"><a style="color: #a7a7a7; text-decoration: none; font-weight: normal !important; border: none; display: inline-block;" href="http://www.gettyimages.com/detail/873115-003" target="_blank">#873115-003</a> / <a style="color: #a7a7a7; text-decoration: none; font-weight: normal !important; border: none; display: inline-block;" href="http://www.gettyimages.com/" target="_blank">gettyimages.com</a></div>
+</div>
+<p>Après tout, on peut mettre en page un livre entier, les illustrations, les notes de bas de page, l’index et tout ça dans Adobe InDesign sans connaître une seule ligne de code. Mais je vous mets au défi d’utiliser InDesign pour faire un simple flyer d’une page sans connaître le logiciel. (J’accepterais même un flyer super laid avec 10 fontes différentes sur la même page. Vous n’y arriverez pas: InDesign est déroutant.)</p>
+<p>WordPress est un logiciel. Ces thèmes “drag and drop” sophistiqués aussi. (Certains nécessitent plus de code de WordPress lui-même!) On en a récemment examiné quelques uns à une rencontre WordPress d’East Bay. J’ai aimé l’interface orientée dessin de Headway mais après quelques heures de combat avec Ultimatum, j’en suis venue à la conclusion qu’<strong>il me serait plus rapide et plus facile de créer un thème en le codant que de passer à travers cette courbe d’apprentissage</strong>.</p>
+<p>Parmi les outils disponibles, certains sont plus intuitifs que ça. Mais même si quelque chose vous semble simple et intuitif, n’assumez pas que ça le sera pour un débutant. (J’ai une cliente qui gère très bien son site depuis plus d’un an et je viens tout juste de lui montrer comment modifier un lien. Elle s’est frappé la tête contre les murs lorsqu’elle a réalisé à quel point c’était simple, mais le bouton en chaîne dans l’éditeur ne lui disait rien jusque là.)</p>
+<p>Vous n’êtes probablement pas un de ces développeurs de thèmes ou d’extensions qui essaie de mousser ses ventes en prétendant que son produit est d’une simplicité désarmante. Mais la prochaine fois que vous dites à un étranger comment c’est facile de construire un site avec WordPress, arrêtez.</p>
+<p>Pensez à InDesign. Pensez à Photoshop.</p>
+<p>Ce qui est facile, c’est installer WordPress, installer un thème commercial et commencer à publier (en assumant qu’écrire du contenu n’est pas la partie difficile pour vous, alors que ce l’est pour plusieurs).</p>
+<p>La suite n’est pas facile tant que vous n’avez pas acquis les habiletés et l’expérience nécessaires. Tant que vous ne comprenez pas les principe fondamentaux du design, la façon dont les éléments s’adaptent aux formats des différentes plates-formes, comment les couleurs s’agencent entre elles, le rôle de l’espace blanc, les contrastes, la typographie, en plus de la façon dont WordPress fonctionne, comment l’hébergement fonctionne, comment les extensions fonctionnent, lesquelles sont incompatibles, quel thème et quelles extensions utiliser. Et c’est sans compter ce que vous savez et ne savez pas de l’HTML, du CSS et du PHP.</p>
+<p>Si vous connaissez tout ça, vous pouvez utiliser quelques uns de ces outils pour construire un super site WordPress en quelques heures.</p>
+<div style="background-color: #fff; display: inline-block; font-family: 'Helvetica Neue',Arial,sans-serif; color: #a7a7a7; font-size: 11px; width: 100%; max-width: 508px;">
+<div style="overflow: hidden; position: relative; height: 0; padding: 66.535433% 0 0 0; width: 100%;"><iframe style="display: inline-block; position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="//embed.gettyimages.com/embed/80115956?et=9TO2vDdCQOlOBBFLI7uFTA&amp;similar=on&amp;sig=P77VcakwgGYKjo1-5RkJ1ijhzB03FDosQ0mr4JRjDRE=" width="508" height="338" frameborder="0" scrolling="no"></iframe></div>
+<div style="padding: 0; margin: 0 0 0 10px; text-align: left;"><a style="color: #a7a7a7; text-decoration: none; font-weight: normal !important; border: none; display: inline-block;" href="http://www.gettyimages.com/detail/80115956" target="_blank">#80115956</a> / <a style="color: #a7a7a7; text-decoration: none; font-weight: normal !important; border: none; display: inline-block;" href="http://www.gettyimages.com/" target="_blank">gettyimages.com</a></div>
+</div>
+<p>Si vous ne connaissez pas tout ça, vous allez probablement construire quelque chose qui a l’air de Geocities en 1997 et qui va fonctionner comme ça aussi, peu importe le temps que vous allez passer à travailler sur votre site.</p>
+<p><em>S’attendre à devenir un excellent développeur Web en achetant un thème, c’est comme s’attendre à devenir un excellent mécanicien en achetant une clé anglaise. Ça ne va pas arriver.</em></p>
+<p>Il n’y a pas de raccourci vers la compétence et la connaissance. Dans aucun champ d’expertise. Les bons outils améliorent la vie de quelqu’un de compétent, mais ne compensent pas pour le manque d&rsquo;expérience. On doit tous traverser ces étapes durant lesquelles on est un débutant un peu perdu, tout au long de notre vie. C’est normal. Si vous êtes un grand banquier, chef ou mécanicien, il ne faut pas s’attendre à devenir un brillant designer web et encore moins un brillant designer web <strong>du jour au lendemain</strong>.</p>
+<p>Rappelez-vous toutes les choses difficiles que vous savez faire et qui ne demandent pas de savoir coder et ne vous laissez pas séduire par le chant des sirènes.</p>
+<p>Cet article <a rel="nofollow" href="/2014/11/les-fausses-promesses-de-wordpress/">Les fausses promesses de WordPress</a> est apparu en premier sur <a rel="nofollow" href="/">Desaulniers Simard</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Nous sommes « travailleuses Woo affiliées »</title>
+		<link>/2014/09/nous-sommes-travailleurs-woo-affilies/</link>
+		<pubDate>Thu, 18 Sep 2014 02:41:20 +0000</pubDate>
+		<dc:creator><![CDATA[Alexandre]]></dc:creator>
+				<category><![CDATA[Nouvelles]]></category>
+
+		<guid isPermaLink="false">/?p=621</guid>
+		<description><![CDATA[<p>Desaulniers Simard a été approuvée par WooThemes et fait maintenant partie du répertoire officiel des Affiliated Woo Workers.</p>
+<p>Cet article <a rel="nofollow" href="/2014/09/nous-sommes-travailleurs-woo-affilies/">Nous sommes « travailleuses Woo affiliées »</a> est apparu en premier sur <a rel="nofollow" href="/">Desaulniers Simard</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><strong><img class="alignright size-full wp-image-622" src="https://i2.wp.com/desaulniers-simard.com/wp-content/uploads/2014/09/woothemes_logo.png?resize=347%2C87&#038;ssl=1" alt="woothemes_logo" srcset="https://i2.wp.com/desaulniers-simard.com/wp-content/uploads/2014/09/woothemes_logo.png?resize=300%2C75&amp;ssl=1 300w, https://i2.wp.com/desaulniers-simard.com/wp-content/uploads/2014/09/woothemes_logo.png?w=347&amp;ssl=1 347w" sizes="(max-width: 347px) 100vw, 347px" data-recalc-dims="1" />Desaulniers Simard</strong> a été approuvée par <strong>WooThemes</strong> et fait maintenant partie du répertoire officiel des <em><a href="http://www.woothemes.com/affiliated-woo-workers/desaulniers-simard/">Affiliated Woo Workers</a></em>. Nous sommes les deuxièmes au Canada et les premières au Québec à être &laquo;&nbsp;honorées&nbsp;&raquo; ainsi. Les <em>Affiliated Woo Workers</em> sont choisis en fonction de la qualité et de l&rsquo;étendue de leur utilisation des thèmes WooThemes et de l&rsquo;extension WooCommerce. On ne vous cachera pas qu&rsquo;on est quand même un peu fières.</p>
+<p><a href="http://www.woothemes.com/">WooThemes</a> est une pionnière des solutions commerciales destinées à l&rsquo;écosystème WordPress. Fondée en 2008, elle est un des premiers studios à avoir vendu des thèmes WordPress et n&rsquo;a cessé de grandir depuis. En 2011, elle lançait <a href="http://www.woothemes.com/woocommerce/">WooCommerce</a>, une extension transformant WordPress en système complet de commerce électronique. Aujourd&rsquo;hui, 17,77% de tous les sites de commerce électronique au monde utilisent WooCommerce.</p>
+<p>Cet article <a rel="nofollow" href="/2014/09/nous-sommes-travailleurs-woo-affilies/">Nous sommes « travailleuses Woo affiliées »</a> est apparu en premier sur <a rel="nofollow" href="/">Desaulniers Simard</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Nous serons au WordCamp Montréal</title>
+		<link>/2014/07/nous-serons-au-wordcamp-montreal/</link>
+		<pubDate>Sun, 06 Jul 2014 23:58:03 +0000</pubDate>
+		<dc:creator><![CDATA[Alexandre]]></dc:creator>
+				<category><![CDATA[Nouvelles]]></category>
+
+		<guid isPermaLink="false">/?p=260</guid>
+		<description><![CDATA[<p>WordCamp est une conférence informelle consacrée à WordPress et organisée par la communauté locale. Depuis 2006 jusqu&#8217;au jour d&#8217;aujourd&#8217;hui, 346 de ces conférences ont été organisées dans 172 villes. Cette année marquera la 6e édition de notre version locale, WordCamp Montréal. Nous sommes heureuses d&#8217;annoncer que nous avons toutes les deux été retenues comme conférencières cette [&#8230;]</p>
+<p>Cet article <a rel="nofollow" href="/2014/07/nous-serons-au-wordcamp-montreal/">Nous serons au WordCamp Montréal</a> est apparu en premier sur <a rel="nofollow" href="/">Desaulniers Simard</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><img class="size-medium wp-image-261 alignright" src="https://i2.wp.com/desaulniers-simard.com/wp-content/uploads/2014/07/wcmtl.png?resize=300%2C204&#038;ssl=1" alt="wcmtl" srcset="https://i2.wp.com/desaulniers-simard.com/wp-content/uploads/2014/07/wcmtl.png?resize=300%2C204&amp;ssl=1 300w, https://i2.wp.com/desaulniers-simard.com/wp-content/uploads/2014/07/wcmtl.png?w=525&amp;ssl=1 525w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" /><a href="http://central.wordcamp.org/">WordCamp</a> est une conférence informelle consacrée à <a href="http://wordpress.org/">WordPress</a> et organisée par la communauté locale. Depuis 2006 jusqu&rsquo;au jour d&rsquo;aujourd&rsquo;hui, 346 de ces conférences ont été organisées dans 172 villes. Cette année marquera la 6e édition de notre version locale, <a href="http://2014.fr.montreal.wordcamp.org/">WordCamp Montréal</a>.</p>
+<p>Nous sommes heureuses d&rsquo;annoncer que nous avons toutes les deux été retenues comme conférencières cette année encore. Élise présentera <a href="http://2014.fr.montreal.wordcamp.org/session/10-facons-de-vendre-avec-wordpress/">10 façons de vendre en ligne avec WordPress</a>, du simple bouton Paypal aux fonctions avancées de <a href="http://www.woothemes.com/woocommerce/">WooCommerce</a>. Un programme chargé pour 45 minutes! De son côté, Alexandre abordera le sujet méconnu des sélecteurs CSS et enseignera <a href="http://2014.fr.montreal.wordcamp.org/session/selecteurs-css-a-la-rescousse-techniques-incontournables-pour-wordpress/">les techniques essentielles pour WordPress</a>.</p>
+<p>Enfin, Desaulniers Simard s&rsquo;associe au comité organisateur en tant que commanditaire de l&rsquo;événement. La communauté WordPress montréalaise est vivante, vibrante et passionnée. Nous sommes fières d&rsquo;en faire partie.</p>
+<p>Cet article <a rel="nofollow" href="/2014/07/nous-serons-au-wordcamp-montreal/">Nous serons au WordCamp Montréal</a> est apparu en premier sur <a rel="nofollow" href="/">Desaulniers Simard</a>.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
