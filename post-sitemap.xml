@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//desaulniers-simard.com/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://desaulniers-simard.com/2014/07/nous-serons-au-wordcamp-montreal/</loc>
+		<lastmod>2014-07-28T16:09:20-04:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>https://desaulniers-simard.com/wp-content/uploads/2014/07/wcmtl.png</image:loc>
+			<image:caption><![CDATA[Nous serons au WordCamp Montréal]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://desaulniers-simard.com/wp-content/uploads/2014/07/wcmtl-300x204.png</image:loc>
+			<image:caption><![CDATA[wcmtl]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://desaulniers-simard.com/en/2014/07/nous-serons-au-wordcamp-montreal-2/</loc>
+		<lastmod>2014-08-05T08:23:49-04:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>https://desaulniers-simard.com/wp-content/uploads/2014/07/wcmtl.png</image:loc>
+			<image:caption><![CDATA[We will be at WordCamp Montreal]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://desaulniers-simard.com/wp-content/uploads/2014/07/wcmtl-300x204.png</image:loc>
+			<image:caption><![CDATA[wcmtl]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://desaulniers-simard.com/2014/08/selecteurs-css-a-la-rescousse-techniques-incontournables-pour-wordpress/</loc>
+		<lastmod>2014-08-16T22:20:24-04:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>https://desaulniers-simard.com/wp-content/uploads/2014/08/Capture-d’écran-2014-08-16-à-22.17.22.png</image:loc>
+			<image:caption><![CDATA[Sélecteurs CSS à la rescousse: techniques incontournables pour WordPress]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://desaulniers-simard.com/2014/08/dix-facons-de-vendre-avec-wordpress/</loc>
+		<lastmod>2014-08-17T15:31:09-04:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>https://desaulniers-simard.com/wp-content/uploads/2014/08/Capture-d’écran-2014-08-17-à-15.17.48.png</image:loc>
+			<image:caption><![CDATA[Dix façons de vendre avec WordPress]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://desaulniers-simard.com/2014/09/nous-sommes-travailleurs-woo-affilies/</loc>
+		<lastmod>2014-10-23T07:17:58-04:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>https://desaulniers-simard.com/wp-content/uploads/2014/09/woothemes_logo.png</image:loc>
+			<image:caption><![CDATA[Nous sommes « travailleuses Woo affiliées »]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://desaulniers-simard.com/wp-content/uploads/2014/09/woothemes_logo.png</image:loc>
+			<image:caption><![CDATA[woothemes logo]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://desaulniers-simard.com/en/2014/09/we-are-affiliated-woo-workers/</loc>
+		<lastmod>2014-09-17T22:58:05-04:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>https://desaulniers-simard.com/wp-content/uploads/2014/09/woothemes_logo.png</image:loc>
+			<image:caption><![CDATA[We are Affiliated Woo Workers]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://desaulniers-simard.com/wp-content/uploads/2014/09/woothemes_logo.png</image:loc>
+			<image:caption><![CDATA[woothemes logo]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://desaulniers-simard.com/2014/10/en-partance-pour-san-francisco/</loc>
+		<lastmod>2014-10-24T06:15:37-04:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>https://desaulniers-simard.com/wp-content/uploads/2014/10/porte80.jpg</image:loc>
+			<image:caption><![CDATA[En partance pour San Francisco]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://desaulniers-simard.com/wp-content/uploads/2014/10/porte80-300x168.jpg</image:loc>
+			<image:caption><![CDATA[porte80]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://desaulniers-simard.com/en/2014/10/on-our-way-to-san-francisco/</loc>
+		<lastmod>2014-10-24T19:59:06-04:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>https://desaulniers-simard.com/wp-content/uploads/2014/10/porte80.jpg</image:loc>
+			<image:caption><![CDATA[On our way to San Francisco]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://desaulniers-simard.com/wp-content/uploads/2014/10/porte80-300x168.jpg</image:loc>
+			<image:caption><![CDATA[porte80]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://desaulniers-simard.com/2014/10/faites-semblant-que-vous-etes-bonne/</loc>
+		<lastmod>2014-10-27T23:39:40-04:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>https://desaulniers-simard.com/wp-content/uploads/2014/10/tumblr_ne0xehW0fx1qz5lsvo1_500.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://desaulniers-simard.com/wp-content/uploads/2014/10/Capture-d’écran-2014-10-27-à-19.47.10.png</image:loc>
+			<image:caption><![CDATA[La foule pour la présentation de Matt Source : https://twitter.com/wordcampsf]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://desaulniers-simard.com/wp-content/uploads/2014/10/Capture-d’écran-2014-10-27-à-19.49.51.png</image:loc>
+			<image:caption><![CDATA[Chris Lema. Source: @dimensionmedia]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://desaulniers-simard.com/wp-content/uploads/2014/10/Capture-d’écran-2014-10-27-à-19.56.32.png</image:loc>
+			<image:caption><![CDATA[The Bloggess et Jen Mylo. Source : @Carol Stephen]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://desaulniers-simard.com/2014/11/les-fausses-promesses-de-wordpress/</loc>
+		<lastmod>2014-11-07T14:58:39-05:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>https://desaulniers-simard.com/wp-content/uploads/2014/11/wright-fig08_004.jpg</image:loc>
+			<image:caption><![CDATA[Les fausses promesses de WordPress]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://desaulniers-simard.com/2014/12/la-gestion-du-contenu-multilingue-sous-wordpress/</loc>
+		<lastmod>2014-12-11T08:32:52-05:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>https://desaulniers-simard.com/wp-content/uploads/2014/12/10437730_10154899338790445_5009181643250919686_n-e1418304746295.png</image:loc>
+			<image:caption><![CDATA[La gestion du contenu multilingue sous WordPress]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://desaulniers-simard.com/en/2014/12/multilingual-content-management/</loc>
+		<lastmod>2014-12-14T09:57:43-05:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>https://desaulniers-simard.com/wp-content/uploads/2014/12/10437730_10154899338790445_5009181643250919686_n-e1418304746295.png</image:loc>
+			<image:caption><![CDATA[Multilingual Content Management]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://desaulniers-simard.com/2015/07/mettez-de-lordre-vos-recettes/</loc>
+		<lastmod>2015-07-18T21:57:29-04:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>https://desaulniers-simard.com/wp-content/uploads/2015/07/shutterstock_6590863.jpg</image:loc>
+			<image:caption><![CDATA[Mettez de l]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://desaulniers-simard.com/wp-content/uploads/2015/07/shutterstock_6590863-300x201.jpg</image:loc>
+			<image:caption><![CDATA[shutterstock 6590863]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://desaulniers-simard.com/wp-content/uploads/2015/07/Capture-d’écran-2015-07-18-à-17.15.10.png</image:loc>
+			<image:caption><![CDATA[Shortcode recipe]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://desaulniers-simard.com/wp-content/uploads/2015/07/Capture-d’écran-2015-07-18-à-17.17.57.png</image:loc>
+			<image:caption><![CDATA[fin shortcode]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://desaulniers-simard.com/wp-content/uploads/2015/07/Capture-d’écran-2015-07-18-à-17.24.08.png</image:loc>
+			<image:caption><![CDATA[comment]]></image:caption>
+		</image:image>
+	</url>
+</urlset>
+<!-- XML Sitemap generated by Yoast SEO -->
