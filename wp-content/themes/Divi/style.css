@@ -6710,6 +6710,7 @@ p.et_pb_gallery_caption {
 /* Blog Module */
 .et_pb_post {
 	margin-bottom: 60px;
+	clear: both;
 }
 
 .et_pb_post .entry-featured-image-url {
