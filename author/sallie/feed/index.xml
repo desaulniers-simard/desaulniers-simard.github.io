@@ -12,11 +12,19 @@
 	<atom:link href="/author/sallie/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Conseil, développement et formation WordPress à Montréal</description>
-	<lastBuildDate>Sat, 05 May 2018 12:33:24 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 22 May 2018 01:09:59 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.4.15</generator>
+
+<image>
+	<url>/wp-content/uploads/2014/06/cropped-favicon1-32x32.png</url>
+	<title>Sallie Goetsch | Desaulniers Simard</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Les fausses promesses de WordPress</title>
 		<link>/2014/11/les-fausses-promesses-de-wordpress/</link>

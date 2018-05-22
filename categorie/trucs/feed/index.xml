@@ -12,11 +12,19 @@
 	<atom:link href="/categorie/trucs/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Conseil, développement et formation WordPress à Montréal</description>
-	<lastBuildDate>Sat, 05 May 2018 12:33:24 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 22 May 2018 01:09:59 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.4.15</generator>
+
+<image>
+	<url>/wp-content/uploads/2014/06/cropped-favicon1-32x32.png</url>
+	<title>Trucs | Desaulniers Simard</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Mettez de l&#8217;ordre dans vos recettes</title>
 		<link>/2015/07/mettez-de-lordre-vos-recettes/</link>
@@ -29,22 +37,20 @@
 		<description><![CDATA[<p>Le shortcode recipe est votre nouvel ami. Il est disponible sous wordpress.com de même qu'aux sites auto-hébergés via l'extension Jetpack. En plus d'améliorer la mise en page de vos recettes, l'utilisation du shortcode recipe va faciliter leur référencement sur les moteurs de recherche.</p>
 <p>Cet article <a rel="nofollow" href="/2015/07/mettez-de-lordre-vos-recettes/">Mettez de l&rsquo;ordre dans vos recettes</a> est apparu en premier sur <a rel="nofollow" href="/">Desaulniers Simard</a>.</p>
 ]]></description>
-				<content:encoded><![CDATA[<p>Vous publiez des recettes sur votre blogue et vous avez du mal à les formater ?<img class="alignright size-medium wp-image-1002" src="/wp-content/uploads/2015/07/shutterstock_6590863-300x201.jpg" alt="shutterstock_6590863" width="300" height="201" srcset="/wp-content/uploads/2015/07/shutterstock_6590863-300x201.jpg 300w, /wp-content/uploads/2015/07/shutterstock_6590863.jpg 1000w" sizes="(max-width: 300px) 100vw, 300px" /><br />
+				<content:encoded><![CDATA[<p>Vous publiez des recettes sur votre blogue et vous avez du mal à les formater ?<img class="alignright wp-image-1002 size-medium" src="/wp-content/uploads/2015/07/fiches-recettes-300x201.jpg" alt="shutterstock_6590863" width="300" height="201" srcset="/wp-content/uploads/2015/07/fiches-recettes-300x201.jpg 300w, /wp-content/uploads/2015/07/fiches-recettes.jpg 1000w" sizes="(max-width: 300px) 100vw, 300px" /><br />
 Vous souhaitez qu&rsquo;elles puissent être imprimées facilement et proprement ?</p>
 <p>Le shortcode <strong>recipe</strong> est votre nouvel ami. Il est disponible sous wordpress.com de même qu&rsquo;aux sites auto-hébergés via l&rsquo;extension <a href="http://jetpack.me/">Jetpack</a>. En plus d&rsquo;améliorer la mise en page de vos recettes, l&rsquo;utilisation du shortcode <strong>recipe</strong> va faciliter leur référencement sur les moteurs de recherche.</p>
 <h2>Comment ça marche ?</h2>
 <p>Dans l&rsquo;éditeur visuel habituel, il s&rsquo;agit simplement de taper ceci en remplaçant le texte en gras par vos propres paramètres :</p>
-<p><img class="alignleft size-full wp-image-1009" src="/wp-content/uploads/2015/07/Capture-d’écran-2015-07-18-à-17.15.10.png" alt="Shortcode_recipe" width="796" height="46" srcset="/wp-content/uploads/2015/07/Capture-d’écran-2015-07-18-à-17.15.10-300x17.png 300w, /wp-content/uploads/2015/07/Capture-d’écran-2015-07-18-à-17.15.10.png 796w" sizes="(max-width: 796px) 100vw, 796px" /></p>
-<p>&nbsp;</p>
+<p><img class="alignleft wp-image-1009 size-full" src="/wp-content/uploads/2015/07/shortcode_recipe.png" alt="Shortcode_recipe" width="796" height="46" srcset="/wp-content/uploads/2015/07/shortcode_recipe-300x17.png 300w, /wp-content/uploads/2015/07/shortcode_recipe.png 796w" sizes="(max-width: 796px) 100vw, 796px" /></p>
 <p>&nbsp;</p>
 <p>Ensuite, vous entrez votre recette (n&rsquo;hésitez pas à utiliser les listes à puces ou numériques, de même que les attributs titre1, titre2 etc pour faciliter la lecture.)</p>
 <p>Et à la fin, vous inscrivez</p>
-<p><img class="alignleft size-full wp-image-1013" src="/wp-content/uploads/2015/07/Capture-d’écran-2015-07-18-à-17.17.57.png" alt="fin_shortcode" width="86" height="35" /></p>
-<p>&nbsp;</p>
+<p><img class="alignleft wp-image-1013 size-full" src="/wp-content/uploads/2015/07/fin_shortcode.png" alt="fin_shortcode" width="86" height="35" /></p>
 <p>&nbsp;</p>
 <h2>Qu&rsquo;est-ce que ça donne ?</h2>
 <p><strong>Le shortcode en action !</strong></p>
-<p><img class="alignleft size-full wp-image-1015" src="/wp-content/uploads/2015/07/Capture-d’écran-2015-07-18-à-17.24.08.png" alt="comment" width="878" height="438" srcset="/wp-content/uploads/2015/07/Capture-d’écran-2015-07-18-à-17.24.08-300x150.png 300w, /wp-content/uploads/2015/07/Capture-d’écran-2015-07-18-à-17.24.08.png 878w" sizes="(max-width: 878px) 100vw, 878px" /></p>
+<p><img class="alignleft wp-image-1015 size-full" src="/wp-content/uploads/2015/07/comment.png" alt="comment" width="878" height="438" srcset="/wp-content/uploads/2015/07/comment-300x150.png 300w, /wp-content/uploads/2015/07/comment.png 878w" sizes="(max-width: 878px) 100vw, 878px" /></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <h3>Résultat :</h3>

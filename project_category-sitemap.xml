@@ -2,121 +2,97 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://desaulniers-simard.com/project_category/conseil/</loc>
-		<lastmod>2015-12-13T20:14:57-05:00</lastmod>
+		<lastmod>2018-05-21T21:06:13-04:00</lastmod>
 		<changefreq>weekly</changefreq>
-		<priority>0.6</priority>
+		<priority>0.4</priority>
 	</url>
 	<url>
 		<loc>https://desaulniers-simard.com/en/project_category/consulting/</loc>
-		<lastmod>2015-12-13T20:14:51-05:00</lastmod>
+		<lastmod>2018-05-21T21:05:38-04:00</lastmod>
 		<changefreq>weekly</changefreq>
-		<priority>0.6</priority>
+		<priority>0.4</priority>
 	</url>
 	<url>
-		<loc>https://desaulniers-simard.com/en/project_category/content-management/</loc>
-		<lastmod>2015-12-13T19:43:29-05:00</lastmod>
+		<loc>https://desaulniers-simard.com/en/project_category/customisation/</loc>
+		<lastmod>2018-05-21T20:58:42-04:00</lastmod>
 		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
+		<priority>0.4</priority>
 	</url>
 	<url>
-		<loc>https://desaulniers-simard.com/project_category/extensions/</loc>
-		<lastmod>2014-08-05T03:13:16-04:00</lastmod>
+		<loc>https://desaulniers-simard.com/en/project_category/development/</loc>
+		<lastmod>2018-05-21T21:05:38-04:00</lastmod>
 		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
+		<priority>0.4</priority>
+	</url>
+	<url>
+		<loc>https://desaulniers-simard.com/project_category/developpement/</loc>
+		<lastmod>2018-05-21T21:06:13-04:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.4</priority>
 	</url>
 	<url>
 		<loc>https://desaulniers-simard.com/project_category/formation/</loc>
-		<lastmod>2015-12-13T20:14:57-05:00</lastmod>
+		<lastmod>2018-05-21T21:01:48-04:00</lastmod>
 		<changefreq>weekly</changefreq>
-		<priority>0.6</priority>
-	</url>
-	<url>
-		<loc>https://desaulniers-simard.com/project_category/gestion-contenu/</loc>
-		<lastmod>2015-12-13T15:59:14-05:00</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
+		<priority>0.4</priority>
 	</url>
 	<url>
 		<loc>https://desaulniers-simard.com/en/project_category/multilingual/</loc>
-		<lastmod>2015-12-13T20:14:51-05:00</lastmod>
+		<lastmod>2018-05-21T21:02:46-04:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.4</priority>
 	</url>
 	<url>
 		<loc>https://desaulniers-simard.com/project_category/multilingue/</loc>
-		<lastmod>2015-12-13T20:14:57-05:00</lastmod>
+		<lastmod>2018-05-21T21:01:29-04:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.4</priority>
 	</url>
 	<url>
 		<loc>https://desaulniers-simard.com/en/project_category/multisite/</loc>
-		<lastmod>2015-12-13T20:05:16-05:00</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.4</priority>
-	</url>
-	<url>
-		<loc>https://desaulniers-simard.com/project_category/multisites/</loc>
-		<lastmod>2015-12-13T15:41:46-05:00</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.4</priority>
-	</url>
-	<url>
-		<loc>https://desaulniers-simard.com/en/project_category/custom-plugins/</loc>
-		<lastmod>2014-08-05T03:22:31-04:00</lastmod>
+		<lastmod>2018-05-21T21:02:46-04:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>https://desaulniers-simard.com/project_category/themes-sur-mesure/</loc>
-		<lastmod>2015-12-13T20:14:57-05:00</lastmod>
+		<loc>https://desaulniers-simard.com/project_category/multisites/</loc>
+		<lastmod>2018-05-21T00:00:06-04:00</lastmod>
 		<changefreq>weekly</changefreq>
-		<priority>0.4</priority>
+		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>https://desaulniers-simard.com/en/project_category/custom-themes/</loc>
-		<lastmod>2015-12-13T20:14:51-05:00</lastmod>
+		<loc>https://desaulniers-simard.com/project_category/personnalisation/</loc>
+		<lastmod>2018-05-21T21:01:48-04:00</lastmod>
 		<changefreq>weekly</changefreq>
-		<priority>0.4</priority>
+		<priority>0.6</priority>
 	</url>
 	<url>
 		<loc>https://desaulniers-simard.com/en/project_category/training/</loc>
-		<lastmod>2015-12-13T20:14:51-05:00</lastmod>
+		<lastmod>2018-05-21T21:03:17-04:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.4</priority>
 	</url>
 	<url>
 		<loc>https://desaulniers-simard.com/project_category/woocommerce/</loc>
-		<lastmod>2015-12-13T15:59:03-05:00</lastmod>
+		<lastmod>2018-05-21T21:06:13-04:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.4</priority>
 	</url>
 	<url>
 		<loc>https://desaulniers-simard.com/en/project_category/woocommerce-en/</loc>
-		<lastmod>2015-12-13T19:42:08-05:00</lastmod>
+		<lastmod>2018-05-21T21:05:38-04:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.4</priority>
 	</url>
 	<url>
-		<loc>https://desaulniers-simard.com/project_category/wordpress/</loc>
-		<lastmod>2015-12-13T20:14:57-05:00</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.6</priority>
-	</url>
-	<url>
-		<loc>https://desaulniers-simard.com/en/project_category/wordpress-en/</loc>
-		<lastmod>2015-12-13T20:14:51-05:00</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.6</priority>
-	</url>
-	<url>
 		<loc>https://desaulniers-simard.com/project_category/wordpress-com/</loc>
-		<lastmod>2015-12-13T15:59:14-05:00</lastmod>
+		<lastmod>2018-05-21T21:01:38-04:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.4</priority>
 	</url>
 	<url>
 		<loc>https://desaulniers-simard.com/en/project_category/wordpress-com-en/</loc>
-		<lastmod>2015-12-13T19:43:29-05:00</lastmod>
+		<lastmod>2018-05-21T21:03:08-04:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.4</priority>
 	</url>
