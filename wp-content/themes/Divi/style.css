@@ -10288,6 +10288,10 @@ body.ie .et_pb_divider {
 	-o-backface-visibility: hidden;
 }
 
+.et_pb_fullwidth_portfolio .et_pb_portfolio_image .meta .post-meta {
+	display: none;
+}
+
 .et_pb_fullwidth_portfolio h2 {
 	margin: 30px 0;
 	text-align: center;
